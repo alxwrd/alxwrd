@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Alex, a software engineer in Nottingham, UK.
+
+Over the last 14 days I've been working with:
+
+<a href="https://wakatime.com/">
+  <img src="https://wakatime.com/share/@dc148e04-5a2c-47a8-9e27-f8218b790bba/8ac9bfe3-87a9-4d49-8fe6-6056be5a3bc9.png" width="65%">
+</a>
+
 <!--
 **alxwrd/alxwrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
