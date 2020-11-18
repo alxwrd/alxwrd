@@ -5,7 +5,7 @@ I'm Alex, a software engineer in Nottingham, UK.
 Over the last 14 days I've been working with:
 
 <a href="https://wakatime.com/">
-  <figure><embed src="https://wakatime.com/share/@alxwrd/26e04301-6dba-4de6-9ca0-2946e8401678.svg" width="60%"></embed></figure>
+  <img src="https://wakatime.com/share/@alxwrd/26e04301-6dba-4de6-9ca0-2946e8401678.svg" width="60%">
 </a>
 
 <!--
