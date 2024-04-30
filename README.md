@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi, I'm Alex 👋
 
-I'm Alex, a software engineer in Nottingham, UK.
+I'm a software engineer based in Nottingham 🏹 in the UK.
 
-<!--
-**alxwrd/alxwrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been in software for almost 8 years - originally coming from a background of call-center and customer service!
 
-Here are some ideas to get you started:
+Currently, I am a software engineer at DeepSea. Previously, I've worked at Tessian and Oracle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, you can find me either:
+- mountain biking
+- bouldering
+- making and playing video games
+- or spending time with my family.
+
+You can find me online at https://alxwrd.co.uk/
